@@ -19,4 +19,12 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Array
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
