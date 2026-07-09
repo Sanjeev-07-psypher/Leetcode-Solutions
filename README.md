@@ -15,14 +15,17 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Array
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +43,12 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
