@@ -21,15 +21,18 @@ Handle: Sanjeev_717
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +54,21 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
