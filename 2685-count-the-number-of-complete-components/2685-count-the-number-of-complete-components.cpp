@@ -24,31 +24,31 @@ public:
         adj[v].push_back(Edge(v,u));
     }
 
-    void visitedNodes(vector<bool>& visited,int node){
-        visited[node]=true;
-
-        for(auto &e:adj[node]){
+    void visitedC(vector<bool>& visited,vector<bool>& global,int i){
+        visited[i]=true;
+        global[i]=true;
+        for(auto &e: adj[i]){
             if(!visited[e.dest]){
-                visitedNodes(visited,e.dest);
+                visitedC(visited,global,e.dest);
             }
         }
     }
 
-    bool check(vector<bool>& visited){
+    bool count(vector<bool>& visited,int i){
         int totalNodes=0;
-        int degreeSum=0;
-
+        int degSum=0;
         for(int i=0;i<V;i++){
             if(visited[i]){
                 totalNodes++;
-                degreeSum += adj[i].size();
+                degSum+=adj[i].size();
             }
         }
-
-        int totalEdges = degreeSum/2;
-
+        int totalEdges=degSum/2;
         return totalEdges == (totalNodes*(totalNodes-1))/2;
     }
+
+
+    
 };
 
 class Solution {
@@ -61,24 +61,13 @@ public:
             g.addEdge(e[0],e[1]);
         }
 
-        vector<bool> globalVisited(n,false);
         int ans=0;
-
+        vector<bool> globalVisited(n+1,false);
         for(int i=0;i<n;i++){
-
+            vector<bool> components(n+1,false);
             if(!globalVisited[i]){
-
-                vector<bool> component(n,false);
-
-                g.visitedNodes(component,i);
-
-                for(int j=0;j<n;j++){
-                    if(component[j]){
-                        globalVisited[j]=true;
-                    }
-                }
-
-                if(g.check(component)){
+                g.visitedC(components,globalVisited,i);
+                if(g.count(components,i)){
                     ans++;
                 }
             }
