@@ -86,4 +86,8 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
