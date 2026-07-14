@@ -30,6 +30,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@ Handle: Sanjeev_717
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -62,6 +64,7 @@ Handle: Sanjeev_717
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -84,6 +87,7 @@ Handle: Sanjeev_717
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
