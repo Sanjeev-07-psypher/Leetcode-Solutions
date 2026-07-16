@@ -37,6 +37,7 @@ Handle: Sanjeev_717
 | [1929-concatenation-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3975-filter-occupied-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3975-filter-occupied-intervals) |
 ## Sorting
 |  |
@@ -45,12 +46,14 @@ Handle: Sanjeev_717
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3975-filter-occupied-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3975-filter-occupied-intervals) |
 ## Math
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
@@ -76,6 +79,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +105,9 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
