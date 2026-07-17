@@ -54,6 +54,7 @@ Handle: Sanjeev_717
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -114,6 +115,7 @@ Handle: Sanjeev_717
 ## Number Theory
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
