@@ -66,6 +66,7 @@ Handle: Sanjeev_717
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Prefix Sum
@@ -100,6 +101,7 @@ Handle: Sanjeev_717
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -143,4 +145,12 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
