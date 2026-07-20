@@ -33,6 +33,7 @@ Handle: Sanjeev_717
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1260-shift-2d-grid](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -122,6 +123,7 @@ Handle: Sanjeev_717
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -157,4 +159,8 @@ Handle: Sanjeev_717
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
