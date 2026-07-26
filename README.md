@@ -32,6 +32,7 @@ Handle: Sanjeev_717
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -51,6 +52,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -61,6 +63,7 @@ Handle: Sanjeev_717
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
