@@ -31,6 +31,7 @@ Handle: Sanjeev_717
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -53,6 +54,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -95,6 +97,7 @@ Handle: Sanjeev_717
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -133,6 +136,7 @@ Handle: Sanjeev_717
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Enumeration
