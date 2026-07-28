@@ -29,6 +29,7 @@ Handle: Sanjeev_717
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -53,6 +54,7 @@ Handle: Sanjeev_717
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +115,7 @@ Handle: Sanjeev_717
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
