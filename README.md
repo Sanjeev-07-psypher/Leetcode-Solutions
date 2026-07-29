@@ -30,6 +30,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -55,6 +56,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
