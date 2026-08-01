@@ -35,6 +35,7 @@ Handle: Sanjeev_717
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1260-shift-2d-grid](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -72,6 +73,7 @@ Handle: Sanjeev_717
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -127,6 +129,7 @@ Handle: Sanjeev_717
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -207,4 +210,12 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
