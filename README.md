@@ -29,6 +29,7 @@ Handle: Sanjeev_717
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -122,6 +123,7 @@ Handle: Sanjeev_717
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -134,6 +136,7 @@ Handle: Sanjeev_717
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
