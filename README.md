@@ -32,6 +32,7 @@ Handle: Sanjeev_717
 | [0011-container-with-most-water](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0055-jump-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -141,6 +142,7 @@ Handle: Sanjeev_717
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -149,6 +151,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
