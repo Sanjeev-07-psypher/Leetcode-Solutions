@@ -87,6 +87,7 @@ Handle: Sanjeev_717
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -173,6 +174,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
