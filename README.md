@@ -51,6 +51,7 @@ Handle: Sanjeev_717
 | [1470-shuffle-the-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -106,6 +107,7 @@ Handle: Sanjeev_717
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -232,6 +234,7 @@ Handle: Sanjeev_717
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -258,4 +261,8 @@ Handle: Sanjeev_717
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
