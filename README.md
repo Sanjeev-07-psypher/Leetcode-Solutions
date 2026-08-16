@@ -51,6 +51,7 @@ Handle: Sanjeev_717
 | [1470-shuffle-the-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -92,6 +93,7 @@ Handle: Sanjeev_717
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -167,6 +169,7 @@ Handle: Sanjeev_717
 | [0055-jump-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -180,6 +183,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -255,16 +259,19 @@ Handle: Sanjeev_717
 | [0877-stone-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -273,4 +280,8 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
