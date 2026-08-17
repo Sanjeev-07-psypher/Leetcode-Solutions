@@ -49,6 +49,7 @@ Handle: Sanjeev_717
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1563-stone-game-v](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -92,6 +93,7 @@ Handle: Sanjeev_717
 | [0877-stone-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -161,6 +163,7 @@ Handle: Sanjeev_717
 | [0877-stone-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -259,6 +262,7 @@ Handle: Sanjeev_717
 | [0877-stone-game](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
