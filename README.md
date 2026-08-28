@@ -128,6 +128,7 @@ Handle: Sanjeev_717
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Prefix Sum
@@ -170,6 +171,7 @@ Handle: Sanjeev_717
 | [0016-3sum-closest](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -220,6 +222,7 @@ Handle: Sanjeev_717
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
