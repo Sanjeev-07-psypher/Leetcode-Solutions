@@ -7,6 +7,7 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -322,4 +323,12 @@ Handle: Sanjeev_717
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanjeev-07-psypher/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
